@@ -24,4 +24,6 @@ requirements.txt: Lista de dependências.
 LH_CD_RAFAEL_KASHIRAJIMA.pkl: Modelo treinado.
 Resultados: RMSE de 47.90 nos dados de teste.
 
+O arquivo pkl contido neste repositório está dividido em 6 partes, caso queira juntar as partes, basta utilizar a ferramenta online https://pinetools.com/join-files.
+
 Autor: Rafael Kashirajima
